@@ -1,0 +1,14 @@
+; M42 - Orion Nebula
+;
+; Single target image series plan, created by Hector Ramos on Sat, 13 Feb 2016 05:00:54 UTC
+;
+; These are a series of short captures meant to test the capabilities of the telescope.
+; This plan will not produce a great astrophotograph.
+;
+#tiff
+#dither
+#count 1,1,1,1
+#interval 600,300,60,30
+#binning 1,2,2,2
+#filter Color,Color,Color
+M42	5.5883	-5.383

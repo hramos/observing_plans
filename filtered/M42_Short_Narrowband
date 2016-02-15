@@ -1,0 +1,13 @@
+; M42, Orion Nebula
+;
+; Fewer exposures. May attempt this before M42_Long_Narrowband, as iTelescope time is expensive.
+; Total exposure time: 36 min
+;
+#tiff
+#firstlast
+#dither
+#count 4,4,4,4,4,4
+#interval 60,120,120,120,300,180
+#binning 1,1,1,1,1,1,1,1,1
+#filter Clear,Red,Green,Blue,Ha,Ha
+M42	5.5883	-5.383

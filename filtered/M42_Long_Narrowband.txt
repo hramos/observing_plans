@@ -1,0 +1,13 @@
+; M42, Orion Nebula
+;
+; This may provide a very good image, once all exposures have been stacked.
+; Total exposure time: 320 min
+;
+#tiff
+#firstlast
+#dither
+#count 12,10,6,10,6,10,6,10,7,10
+#interval 300,60,300,120,300,120,300,120,600,180
+#binning 1,1,1,1,1,1,1,1,1,1
+#filter Clear,Clear,Red,Red,Green,Green,Blue,Blue,Ha,Ha
+M42	5.5883	-5.383

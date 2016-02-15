@@ -1,0 +1,13 @@
+; Catalina C/2013 US10 Comet
+;
+; Single target image series plan, created by Hector Ramos on Sat, 2 Jan 2016 16:12:42 UTC
+;
+; Simple plan to test acquisition of a comet
+;
+#count 2,2,2
+#interval 300,300,300
+#binning 1,1,1
+#filter Red,Green,Blue
+CK13U10S  2015 11 15.7209  0.822959  1.000307  340.3600  186.1451  148.8787  20160113   4.4  4.0      C/2013 US10 (Catalina)
+#shutdown
+;

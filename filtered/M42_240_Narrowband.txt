@@ -1,0 +1,14 @@
+; M42, Orion Nebula
+;
+; Single target image series plan, created by Hector Ramos on Sat, 13 Feb 2016 05:00:54 UTC
+;
+; Simple plan meant to test the results of using narrowband filters.
+;
+#tiff
+#firstlast
+#dither
+#count 3,3,3,1,1
+#interval 240,240,240,240,240
+#binning 1,1,1,1,1
+#filter Red,Green,Blue,Ha,OIII
+M42	5.5883	-5.383
